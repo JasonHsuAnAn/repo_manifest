@@ -3,5 +3,4 @@
   <remote fetch="git@github.com:JasonHsuAnAn/" name="origin"/>
   <default remote="origin" revision="main" sync-c="true" sync-j="1"/>
   <project name="test_1" path="test_1"/>
-  <project name="test_q" path="test_q"/>
 </manifest>
