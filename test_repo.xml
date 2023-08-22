@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <remote fetch="https://github.com/JasonHsuAnAn/" name="origin"/>
+  <remote fetch="git@github.com:JasonHsuAnAn/" name="origin"/>
   <default remote="origin" revision="main" sync-c="true" sync-j="1"/>
   <project name="iperf" path="iperf" revision="master"/>
   <project name="repo_app" path="test"/>
