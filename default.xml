@@ -3,5 +3,5 @@
   <remote fetch="https://github.com/JasonHsuAnAn/" name="origin"/>
   <default remote="origin" revision="main" sync-c="true" sync-j="1"/>
   <project name="repo_app" path="test_1"/>
-  <project name="iperf" path="iperf"/>
+  <project name="iperf" path="iperf" revision="master"/>
 </manifest>
